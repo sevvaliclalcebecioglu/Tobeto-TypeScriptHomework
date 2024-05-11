@@ -1,0 +1,12 @@
+{
+  "name": "Tobeto 4A TS Ödev",
+  "scripts": {
+    "start": "ts-node-dev index.ts",
+    "build": "tsc index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.11",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.5"
+  }
+}
