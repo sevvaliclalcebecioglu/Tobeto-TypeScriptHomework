@@ -1,5 +1,6 @@
 {
-  "name": "Tobeto 4A TS Ödev",
+  "name": "vierone-typescript-tutorial",
+  "version": "1.0.0",
   "scripts": {
     "start": "ts-node-dev index.ts",
     "build": "tsc index.ts"
